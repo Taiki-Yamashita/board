@@ -1,0 +1,184 @@
+body {
+	background-color: #E3FFFF;
+
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header a.right {
+	float:right;
+}
+
+.form-area a.right {
+	float:right;
+}
+
+.MyTable {
+  display:table:
+  width: 250px;
+
+}
+
+.MyTable div.row{
+  display:table-row;
+    width: 200px;
+    text-align: center;
+    vertical-align: middle;
+    height: 50px;
+}
+
+.MyTable div.cell{
+  display:table-cell;
+  border: 1px solid #ff6a00;
+ width: 300px;
+ vertical-align: middle;
+}
+
+.MyTable div.cell2{
+  display:table-cell;
+  border: 1px solid #800040;
+  vertical-align: middle;
+    width: 250px;
+	font-size: 20px;
+}
+
+pre {
+    width: 200px;
+    font-size: 20px;
+}
+.right {
+	float right:
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+}
+.main-contents {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 30px;
+	margin-right: 30px;
+	background-color: white;
+	height: 100%;
+	font-size: 30px;
+}
+
+
+.header {
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 30px;
+	margin-right:30px;
+	background-color: white;
+	font-size: 20px;
+
+}
+
+.profile {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	height: 100px;
+}
+
+.profile .profile-image {
+	float: left;
+}
+
+.profile .name h2 {
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 36px;
+	margin: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+a.profile .account {
+	font-size: 13px;
+	line-height: 22px;
+}
+
+.profile .description {
+	font-size: 13px;
+	line-height: 22px;
+}
+
+.form-area {
+	margin-top: 00px;
+	margin-right: 00px;
+	margin-bottom: 00px;
+	margin-left: 00px;
+	background-color: #ECECFF;
+	font-size: 20px;
+}
+
+
+.account-name .name {
+	font-weight: lighter;
+	color: gray;
+	font: small-caption;
+}
+
+.left{
+	margin-right: auto;
+}
+
+textarea.comment-box {
+	margin-left: auto;
+}
+
+p1{
+	font-size: 25px;
+	margin-right: 30px;
+}
+
+p2{
+	width: 30px;
+
+}
+
+a{
+	text-aline:left;
+	font-size: 20px;
+}
+
+div{
+	text-aline:right;
+}
+
+.message .date {
+	font-weight: lighter;
+	color: gray;
+	font: small-caption;
+}
+div.copyright {
+	text-align: center;
+}
+
+div.comments {
+	float :right;
+}
+div.iro{
+	background-color: #ECECFF;
+}
+
+label {
+	display: block;
+}
+
+.errorMessages {
+	margin-top: 30px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	margin-left: 30px;
+	color: red;
+}
